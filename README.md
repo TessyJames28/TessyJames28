@@ -17,9 +17,11 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ## 🛠️ Tech Stack
 Here are the tools and technologies I work with:
 
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
