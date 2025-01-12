@@ -30,11 +30,25 @@ Here are the tools and technologies I work with:
 ## 🗂️ My Projects
 Check out some of my work:
 
-- **Ride-Sharing App Backend**  
-  🚗 A scalable ride-matching service built with GoLang and Fiber. [View Repository](#)
-  
-- **AI French Tutor**  
-  🧠 An AI-powered solution for learning French. [View Repository](#)
+### Farmdine 🍎🌾
+A platform built to connect farmers with consumers for fresh produce.  
+**My Role:** Collaborated with other developers during my internship to implement key features, improve UX, and ensure smooth backend performance.  
+[View Repository](https://github.com/InternPulse/farmdine-backend)
+
+### School Match 📚
+A service to connect students with the best schools based on preferences and data analysis.  
+**Key Contribution:** Built algorithms for matching and helped design the database schema.  
+[View Repository](https://github.com/TessyJames28/school_match)
+
+### Lyft Car Rental Feature 🚗
+Implemented a car rental feature for Lyft as part of the **Forage Virtual Internship**.  
+**Key Features:** Designed a scalable microservice architecture and integrated payment processing.  
+[View Repository](https://github.com/TessyJames28/forage-lyft-rental-car-servicing-feature)
+
+### Restaurant API for Meta Tasks 🍴
+Developed a RESTful API for managing restaurant operations, reservations, and customer interactions.  
+**Purpose:** Completed as part of Meta’s engineering tasks to showcase API design skills.  
+[View Repository](https://github.com/TessyJames28/restaurant_api)
 
 ---
 
