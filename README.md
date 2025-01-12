@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]!
+# Hi there! 👋 I'm [Theresa James]!
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
