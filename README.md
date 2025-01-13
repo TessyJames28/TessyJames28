@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **[Your Current Project Name/Details]**
+<!-- - 🔭 I’m currently working on: **[Your Current Project Name/Details]** -->
 - 🌱 I’m currently learning: **Java, Advanced Python, CI/CD, and Conternalization**
 - 🎓 I'm pursuing a **B.Sc. in Computer Science** and transitioning into IT from a Communication degree.
 - 🏥 I bring a unique perspective with a background as an CV writer transitioning into software development.
